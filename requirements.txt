@@ -1,0 +1,4 @@
+mlflow
+scikit-learn==1.9
+pandas==2.2.3
+torch==2.3

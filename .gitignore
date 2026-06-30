@@ -1,0 +1,7 @@
+/.idea
+/.venv
+/.venv-1
+/downloads
+/mlflow.db
+/mlflow_workshop_claude.ipynb
+/mlruns
